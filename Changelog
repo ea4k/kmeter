@@ -1,0 +1,8 @@
+TODO: Add a setting dialog
+    - serial port selection
+    - pooling rate (50msec-5sec buty 80msec by default)
+    - serial speed (115200 by default but 38400/19200 for older firmware versions)
+TBD - 0
+- First "release" of the software.
+- Reads data from LP-100A.
+- Shows data in numerical format.
